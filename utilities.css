@@ -1,0 +1,46 @@
+body{
+    background: #e7eef7;
+}
+
+li{
+    list-style: none;
+    opacity: 0.7;
+    line-height: 1.4rem;
+    font-size: 0.9rem;
+}
+
+.btn{
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    width: 100%;
+    color: white;
+}
+.btn-secondary{
+    background: #bfdf33;
+}
+
+button:hover{
+    opacity: 0.7;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.padding-1{
+    padding-bottom: 20px;
+}
+
+.padding-2 {
+    padding-bottom: 15px;
+}
+.padding-3 {
+    padding-bottom: 30px;
+}
+
+.text-inline-light{
+    opacity: 0.7;
+    font-size: 0.9rem;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+    margin-top: 3px;
+}
